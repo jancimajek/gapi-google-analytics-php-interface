@@ -1,0 +1,15 @@
+{
+    "name": "jancimajek/gapi",
+    "description": "GAPI: Google Analytics Php Interface. Originally developed at https://github.com/erebusnz/gapi-google-analytics-php-interface.",
+    "authors": [
+        {
+            "name": "Jan Majek",
+            "email": "jancister@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "gapi.class.php"
+        ]
+    }
+}
