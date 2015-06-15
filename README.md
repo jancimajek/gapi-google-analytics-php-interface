@@ -14,8 +14,9 @@ Add [dependency](https://getcomposer.org/doc/01-basic-usage.md#composer-json-pro
         }
     ],
     "require": {
-        "jancimajek/gapi": "2.0.0"
-    }
+        "jancimajek/gapi": "dev-master"
+    },
+    "minimum-stability": "dev"
 }
 ```
 
