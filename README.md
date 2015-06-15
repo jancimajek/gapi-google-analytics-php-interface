@@ -4,7 +4,7 @@ Fork of original [GAPI implementation for PHP](https://github.com/erebusnz/gapi-
 
 ## Composer usage
 
-Add dependency to your composer.json file, e.g.:
+Add dependency to your `composer.json` file, e.g.:
 ```
 {
     "repositories": [
